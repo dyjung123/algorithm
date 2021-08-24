@@ -1,0 +1,19 @@
+{
+  "name": "toyalgorithm",
+  "version": "1.0.0",
+  "description": "dongryun's toy algorithm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyjung123/ToyAlgorithm.git"
+  },
+  "keywords": [],
+  "author": "jeongdongryun@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dyjung123/ToyAlgorithm/issues"
+  }
+}
